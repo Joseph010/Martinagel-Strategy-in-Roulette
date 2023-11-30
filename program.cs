@@ -30,7 +30,7 @@ namespace SoloLearn
             bool method4 = false;
             Console.WriteLine("\nHow many tries would you want: ");
             int Tries = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("\nHow muc margin would you want: ");
+            Console.WriteLine("\nHow much margin would you want: ");
             double Margin = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("\nDo you want details? y or n ");
             string details = Console.ReadLine();
