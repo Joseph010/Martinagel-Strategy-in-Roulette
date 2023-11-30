@@ -8,7 +8,7 @@ The strategy is basic: You bet 1 on one of the 12's. If you lose you double the 
 
 You can choose inital bet of yours. For example 2023
 
-Then you are choosing your strategy: Always play on first 12 or always play on middle 12 or always play on last 12. And the 4th option is that fisrt play on first 12 then mid then last then first... 
+Then you are choosing your strategy: Always play on first 12 or always play on middle 12 or always play on last 12. And the 4th option is that first play on first 12 then mid then last then first... 
 
 After choosing strategy you are choosing when to stop. Lets say you wrote 2 then it means you are stopping when you reach 2X. You go till you bankrupt otherwise.
 
