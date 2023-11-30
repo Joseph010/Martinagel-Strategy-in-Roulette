@@ -99,7 +99,7 @@ namespace SoloLearn
             double winratio = track.wins * 100 / (track.wins + track.los);
             Console.WriteLine("\nTotal wins: " + track.wins + ", Total Loss: " + track.los + "\n \nWin Ratio: " + winratio);
             Double expected_ratio = 100.0 / Margin;
-            Console.WriteLine("Your expected raio is: " + expected_ratio);
+            Console.WriteLine("Your expected ratio is: " + expected_ratio);
             if (expected_ratio <= winratio) { Console.WriteLine("Congrats you have the winning strategy by " + (winratio - expected_ratio) + "percent."); }
             else { Console.WriteLine("Sorry you have the losing strategy by " + (winratio - expected_ratio) + "percent. \n"); }
             double total = track.first12 + track.mid12 + track.last12 + track.zero;
