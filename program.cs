@@ -75,7 +75,8 @@ namespace SoloLearn
                     {
                         hesap.balance += 3 * a;
                         a = 1;
-                        Console.Write(" You won! Final balance is:" + hesap.balance + "\n");
+                        
+                        if (fdetails == true) { Console.Write(" You won! Final balance is:" + hesap.balance + "\n"); }
                         if (method4 == true)
                         {
                             iMethod = (iMethod + 1) % 3;
