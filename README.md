@@ -4,7 +4,7 @@ You can run millions of simulations to see based on your money, expected margin,
 
 # Martingale-Strategy-in-Roulette
 
-The strategy is basic: You bet 1 on one of the 12's. If you lose you double the bet if you win you restart the bet as 1 on one of the 12's. In that way after you played x on the last bet and you win your total is being reduced to zero plus you earn x+1 amount of money. This program shows you if you have an winng strategy by your inputs.
+The strategy is basic: You bet 1 on one of the 12's. If you lose you double the bet if you win you restart the bet as 1 on one of the 12's. In that way after you played x on the last bet and you win your total loss is being reduced to zero plus you earn x+1 amount of money. This program shows you if you have an winng strategy by your inputs.
 
 
 
